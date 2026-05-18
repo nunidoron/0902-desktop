@@ -1,1 +1,1 @@
-printf("Hi from file bla bla")
+printg("Hi from file bla bla")
